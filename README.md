@@ -33,6 +33,3 @@ Make sure you have a C++ compiler installed (e.g., `g++`).
 ```bash
 g++ RadixSort.cpp -o RadixSort
 ./RadixSort
-
-✍️ Author
-Aishna Gupta
